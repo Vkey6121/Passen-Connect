@@ -1,0 +1,30 @@
+{
+    "AS_RichText_j297a0729be8475abe59230b5c26a6b0": {
+        "id": "AS_RichText_j297a0729be8475abe59230b5c26a6b0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "linktext"
+        }, {
+            "datatype": "string",
+            "name": "attributes"
+        }],
+        "contextObj": {
+            "name": "CopyForm4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000a1258b0f4dd5ba1c2c917c355a71"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "PHONE_CALL_ACTION_j34bfc39071c426b92f7be4408eac80a",
+            "type": "PHONE_CALL_ACTION",
+            "phoneNumType": "set",
+            "phoneNum": "8300100959"
+        }]
+    }
+}

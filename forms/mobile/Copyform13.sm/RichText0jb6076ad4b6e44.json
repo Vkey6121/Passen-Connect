@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1d0f76beb124107b66826968cca06cf",
+    "_text_": "Turn on Your Loaction for better experience",
+    "_top_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "75.82%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.05%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0jb6076ad4b6e44",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "de1d177e2e784a6b98ffa6121e2ea435",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "Copyform13",
+    "pf": "Copyform13",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 3
+}

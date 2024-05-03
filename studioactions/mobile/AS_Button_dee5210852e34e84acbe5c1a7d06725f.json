@@ -1,0 +1,28 @@
+{
+    "AS_Button_dee5210852e34e84acbe5c1a7d06725f": {
+        "id": "AS_Button_dee5210852e34e84acbe5c1a7d06725f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyForm4",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c000a1258b0f4dd5ba1c2c917c355a71"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onClick_ha3b1c9017d84295a697d4c1122a9c0c",
+            "type": "NAVIGATE_TO_FORM",
+            "formKUID": "fdd5c89c3a6a4f6da2540cee79eeb5dd",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

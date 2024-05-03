@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s93e52509e5a404aabed8ec7d56efd84",
+    "_text_": "Emergency Call",
+    "_top_": {
+        "type": "string",
+        "value": "761dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35.91%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0e411df23489943",
+    "ide_onClick": "AS_RichText_j297a0729be8475abe59230b5c26a6b0",
+    "ide_onTouchStart": "AS_RichText_f3fb5a74f9514e1ba717f2fc2ee765e9",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "defb12da58644e58ae1592e6cffce133",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "CopyForm4",
+    "pf": "CopyForm4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 3
+}

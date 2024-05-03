@@ -1,0 +1,142 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s979f3feb7324bf5b309ed407846fae6",
+    "_top_": {
+        "type": "string",
+        "value": "564dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89.77%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlxContainerLine": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ebfb2bff3ae94ec487ee383e17444db4",
+                "srcKUID": "u375ebef2da540b190da4d8bed8f0748",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "65dp"
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "1dp"
+                }
+            }
+        },
+        "PhoneLnCn": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "edf8920473b6409c80b86930ca0f5f5f",
+                "srcKUID": "ud33881c418e490e93441565de1bc242",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "23dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "564dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "89.77%"
+                }
+            }
+        },
+        "txtPhoneSline": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a150448dfef64518904abd6652499a2e",
+                "srcKUID": "u4774f9453584272add252fce331fd4c",
+                "wType": "TextField"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "140dp"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "305dp"
+                }
+            },
+            "placeholder": "Enter Your Name",
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "-300dp"
+                }
+            },
+            "text": "",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "-140dp"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "CopyPhoneLnCn0fe4f7eaa40e04d",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "edf8920473b6409c80b86930ca0f5f5f",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "confform",
+    "pf": "confform",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ud33881c418e490e93441565de1bc242",
+    "wType": "UserWidgetInstance"
+}

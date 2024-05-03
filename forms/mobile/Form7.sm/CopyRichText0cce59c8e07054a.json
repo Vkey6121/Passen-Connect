@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "162dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sca58fb67caf41f49f0b36ba8769188f",
+    "_text_": "Taxi",
+    "_top_": {
+        "type": "string",
+        "value": "384dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20.53%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0cce59c8e07054a",
+    "ide_onClick": "AS_RichText_d670f352219745f1b59ab8327d3ce0a8",
+    "ide_onTouchStart": "AS_RichText_ec30caf977de491798e6562cb3fa3a1f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "deceab56eb5a4619b648305de1caf401",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "Form7",
+    "pf": "Form7",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 2
+}

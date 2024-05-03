@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "152dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbe153afb40c4f088b4e58336c457bef",
+    "_text_": "KFC Chennai",
+    "_top_": {
+        "type": "string",
+        "value": "176dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35.90%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0j50d4cc8c0464b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f0c62504310b4f08929f47dbde715fdf",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "Form10",
+    "pf": "Form10",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

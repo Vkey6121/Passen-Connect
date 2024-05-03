@@ -1,0 +1,57 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "115dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "7dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0f8745c3f3f42b9bdef390f4aa57aa6",
+    "_top_": {
+        "type": "string",
+        "value": "445dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80.92%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "NotesFieldRounfMultiLine0g6c304ce820e4f"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "NotesRndML0b9c0d82032144d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i1910673f8e843709ad889bb6bdad35e",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Copyform13",
+    "pf": "Copyform13",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 3
+}

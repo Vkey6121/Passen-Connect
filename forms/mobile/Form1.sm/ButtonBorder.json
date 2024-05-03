@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "-500dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_skin_": "s4fdd45d7372452d8f18eace6c7e866f",
+    "_text_": "Forgot Password?",
+    "_top_": {
+        "type": "string",
+        "value": "510dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s0fb9562105140c3b64f09729b2cea7c",
+    "id": "ButtonBorder",
+    "ide_onClick": "AS_Button_i70f6aa54d4d421bb3e926449bd0b1d6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a7d4c69a6bc14d618185df6d8960ef64",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "BorderButtonRound",
+    "pf": "Form1",
+    "wType": "Button",
+    "zindex": 1
+}

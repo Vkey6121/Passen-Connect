@@ -1,0 +1,30 @@
+{
+    "AS_Button_fc016fcf8d014eb6be6588a2ed0809c9": {
+        "id": "AS_Button_fc016fcf8d014eb6be6588a2ed0809c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form6",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9bda600f7c64fafb5112c2a7758404a"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__je88baaeff524a108f5faac725adef8c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "confform",
+            "formKUID": "df629af9e0ae4e3faf70fb8f08257979",
+            "projectName": "passenconnect",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

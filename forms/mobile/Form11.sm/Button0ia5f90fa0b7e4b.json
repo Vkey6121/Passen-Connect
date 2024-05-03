@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc48d1c1de8f4189a3993b522aebabdd",
+    "_text_": "Book Now",
+    "_top_": {
+        "type": "string",
+        "value": "765dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "271dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s21c7209cbf04d30986a56fdf785b23c",
+    "id": "Button0ia5f90fa0b7e4b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b6a2220a3a6848788861bb53c07c840c",
+    "name": "kony.ui.Button",
+    "parent": "Form11",
+    "pf": "Form11",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 3
+}

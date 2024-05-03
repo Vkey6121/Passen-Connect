@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "11dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "sdec9d86a2db4e3fbbe9fdf2089600ca",
+    "_text_": "View Ticket",
+    "_top_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s7a79ad8926d4a6fab933e802d751939",
+    "id": "ButtonSqaured",
+    "ide_onClick": "AS_Button_fc016fcf8d014eb6be6588a2ed0809c9",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a71f2b39597b4fcf97dd7d9e9fbcff99",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "SquaredButton",
+    "pf": "Form6",
+    "wType": "Button",
+    "zindex": 1
+}

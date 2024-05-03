@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "161dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb18f32c444140f3a975b15926bf64f5",
+    "_text_": "TripGuru",
+    "_top_": {
+        "type": "string",
+        "value": "546dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20.13%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0i4407b62e4464a",
+    "ide_onClick": "AS_RichText_ff88eddd110646318f9ebca8a2ae0df0",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e55d3a9b73aa421eb4be8e461ccbf9a8",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "CopyForm4",
+    "pf": "CopyForm4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 3
+}

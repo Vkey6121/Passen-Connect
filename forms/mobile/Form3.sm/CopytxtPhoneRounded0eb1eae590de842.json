@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "-83"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Phone number",
+    "_right_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_skin_": "sf2e9a2971d24b719f8927ccfcbe7600",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "93dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s5aca5e779164767a8ae6b12c364aaeb",
+    "id": "CopytxtPhoneRounded0eb1eae590de842",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "d0b0e8a0f83a4f6c938c341f403ce491",
+    "masterType": 1,
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlxContainerPhoneRounded0j1a07811400c4f",
+    "pf": "Form3",
+    "placeholderskin": "s11b9b648ebd403d8556af4717a03155",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

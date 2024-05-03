@@ -1,0 +1,28 @@
+{
+    "AS_Label_ia118e8bd7e74b5385b8604d6b1ee75a": {
+        "id": "AS_Label_ia118e8bd7e74b5385b8604d6b1ee75a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form5",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c70e8eb8ef70424184c87c49b7c74af1"
+        },
+        "language": "js",
+        "eventType": "onTouchEnd",
+        "actions": [{
+            "id": "EXIT_APP_e1eda3386e0e47e8ba714a51d33d84ec",
+            "type": "EXIT_APP"
+        }]
+    }
+}

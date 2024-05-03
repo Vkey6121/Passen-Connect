@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "54dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5b902a086d045b9809e997158e5c33e",
+    "_text_": "  Don’t have an account?",
+    "_top_": {
+        "type": "string",
+        "value": "-110dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "65.79%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0ee404b414b7947",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "df69dc9cd1f74f2f95e549f55d1c43f6",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "paddingContainer",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 5
+}

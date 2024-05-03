@@ -1,0 +1,36 @@
+{
+    "AS_Label_a7f2cf3dc61346f2a0b0d0f63232f366": {
+        "id": "AS_Label_a7f2cf3dc61346f2a0b0d0f63232f366",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyForm4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000a1258b0f4dd5ba1c2c917c355a71"
+        },
+        "language": "js",
+        "eventType": "onTouchStart",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__dbf077c2e16e467ea6dd92e022c97f49",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form9",
+            "formKUID": "ga3e262b4a19421c8f6fd0576295ba19",
+            "projectName": "passenconnect",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

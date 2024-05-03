@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "162dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s904c27ebfb54f6aaf3eaff858b0bcb8",
+    "_text_": "Find transport at Great Price",
+    "_top_": {
+        "type": "string",
+        "value": "416dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "46.89%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0jb6968464c0b40",
+    "ide_onClick": "AS_RichText_fb86b4a8d2504affbded85c39565d675",
+    "ide_onTouchStart": "AS_RichText_faed3ae4694b45668a1aaaa795777e41",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "be51cc531fb54ae09f751a07ce132c75",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "Form7",
+    "pf": "Form7",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 2
+}

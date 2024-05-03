@@ -1,0 +1,33 @@
+{
+    "AS_TextField_a803d9efc8a742cfad7e8c6923f2320a": {
+        "id": "AS_TextField_a803d9efc8a742cfad7e8c6923f2320a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "form13",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a838c2a159ff4fd6a9bec5b4b209708c"
+        },
+        "language": "js",
+        "eventType": "onTouchStart",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_ide_onTouchStart_i2180947efbe4fdeb48e2f26b0f02a0c",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "PNR",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "number",
+            "value": "5000000000"
+        }]
+    }
+}

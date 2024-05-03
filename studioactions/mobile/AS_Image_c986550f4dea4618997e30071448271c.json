@@ -1,0 +1,35 @@
+{
+    "AS_Image_c986550f4dea4618997e30071448271c": {
+        "id": "AS_Image_c986550f4dea4618997e30071448271c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "CopyForm4",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c000a1258b0f4dd5ba1c2c917c355a71"
+        },
+        "language": "js",
+        "eventType": "onTouchStart",
+        "actions": [{
+            "id": "PHONE_CALL_ACTION_df3fa9d91be94ea099aae9bd4a10c80c",
+            "type": "PHONE_CALL_ACTION",
+            "phoneNumType": "set",
+            "phoneNum": "8300100959"
+        }, {
+            "id": "SEND_SMS_e3c85044c4bf4114a100130b51ea3707",
+            "type": "SEND_SMS",
+            "phoneNumber": "8300100959",
+            "message": "Help Me!"
+        }]
+    }
+}

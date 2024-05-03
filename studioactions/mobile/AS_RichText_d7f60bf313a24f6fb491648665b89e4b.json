@@ -1,0 +1,36 @@
+{
+    "AS_RichText_d7f60bf313a24f6fb491648665b89e4b": {
+        "id": "AS_RichText_d7f60bf313a24f6fb491648665b89e4b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "linktext"
+        }, {
+            "datatype": "string",
+            "name": "attributes"
+        }],
+        "contextObj": {
+            "name": "Form4",
+            "type": "forms",
+            "platform": null,
+            "KUID": "gef4820c6a4b44de8475e191d68a8f22"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ge63141b87904b93a642d1db534d787c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "CopyForm4",
+            "formKUID": "c000a1258b0f4dd5ba1c2c917c355a71",
+            "projectName": "passenconnect",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

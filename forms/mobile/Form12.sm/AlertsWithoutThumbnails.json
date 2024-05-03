@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s56fab219ff942b3906bcfdd9001c690",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "AlertsWithoutThumbnails": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g9aa3d16d0854d1a904932d7c407932f",
+                "srcKUID": "u166d1a6255d434c809384ea90f8ff2e",
+                "wType": "FlexContainer"
+            }
+        },
+        "segList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ea55a8b18faf44dbb97e3ee7d4916c67",
+                "srcKUID": "u68712f1819e44e5b1e26fb5ba970598",
+                "wType": "Segment"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "87.41%"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "5dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "105dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "99.06%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "AlertsWithoutThumbnails",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "g9aa3d16d0854d1a904932d7c407932f",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Form12",
+    "pf": "Form12",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "u166d1a6255d434c809384ea90f8ff2e",
+    "wType": "UserWidgetInstance"
+}

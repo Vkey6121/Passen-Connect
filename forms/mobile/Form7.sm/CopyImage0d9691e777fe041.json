@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "162dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-13dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f0dc5ad97d43b39ed4bd3f73b77c73",
+    "_src_": "hot_air_balloon_with_basket_3d_render_illustration_flying_mountains_sky_with_clouds_render_composition.png",
+    "_top_": {
+        "type": "string",
+        "value": "542dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "CopyImage0d9691e777fe041",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "eb53872c60b74690ae22567f435512c3",
+    "name": "kony.ui.Image2",
+    "parent": "Form7",
+    "pf": "Form7",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 2
+}

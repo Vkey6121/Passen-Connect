@@ -1,0 +1,35 @@
+{
+    "AS_TextField_c2608634561443eca14f2229285add20": {
+        "id": "AS_TextField_c2608634561443eca14f2229285add20",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "Form6",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9bda600f7c64fafb5112c2a7758404a"
+        },
+        "language": "js",
+        "eventType": "onBeginEditing",
+        "actions": [{
+            "id": "_c8f36e3857a34ad6a1fbe147f85a3707",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "value",
+                "leftValue": "5000000000",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }]
+    }
+}

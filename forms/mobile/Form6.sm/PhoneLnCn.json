@@ -1,0 +1,148 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "67dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s979f3feb7324bf5b309ed407846fae6",
+    "_top_": {
+        "type": "string",
+        "value": "450dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96.58%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlxContainerLine": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c1b8a4c74bfa4c8ca9fe5ada4ff74f27",
+                "srcKUID": "u375ebef2da540b190da4d8bed8f0748",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "2dp"
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "1dp"
+                }
+            }
+        },
+        "PhoneLnCn": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "b0e9ba08ea9340c59fb8ca1045ee038c",
+                "srcKUID": "ud33881c418e490e93441565de1bc242",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "10dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "450dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "96.58%"
+                }
+            }
+        },
+        "txtPhoneSline": {
+            "__events__": {
+                "ide_onTextChange": "AS_TextField_h760f0324c094ae69f611a2914804777",
+                "ide_onTouchStart": "AS_TextField_c8c8f8dad788444fb55db0100bdbe621",
+                "iphone": {
+                    "ide_onBeginEditing": "AS_TextField_d576fa2632b94b57b3e21d3d43eae18b"
+                }
+            },
+            "__info__": {
+                "kuid": "b3b609c397124b90b20f664d6c328190",
+                "srcKUID": "u4774f9453584272add252fce331fd4c",
+                "wType": "TextField"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": "5dp"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "15dp"
+                }
+            },
+            "placeholder": "Enter PNR Number",
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "15dp"
+                }
+            },
+            "text": "",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "PhoneLnCn",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "b0e9ba08ea9340c59fb8ca1045ee038c",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "Form6",
+    "pf": "Form6",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ud33881c418e490e93441565de1bc242",
+    "wType": "UserWidgetInstance"
+}

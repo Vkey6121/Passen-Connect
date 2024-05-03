@@ -1,0 +1,33 @@
+{
+    "AS_TextField_c3fbd68f29e8403b8b380b65c7266869": {
+        "id": "AS_TextField_c3fbd68f29e8403b8b380b65c7266869",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY____dbf3d581d07048c7b30b2436e8734803",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "userwidgetmodel",
+            "widgetId": "FlxContainerLine",
+            "propertyName": "skin",
+            "propertyValue": "CopyslNormal0d51d429f667744",
+            "itemKUID": "u2909782d3644cdb92f4210b676e5130",
+            "widgetKUID": "ud0981fb037a4799a5d67334adb491fb",
+            "skinKUID": "sb6daa81b3544a87910ce1c9114b50fd",
+            "isSkinProperty": true,
+            "wType": "FlexContainer",
+            "currentTheme": "defaultTheme",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.FlxContainerLine"
+        }]
+    }
+}

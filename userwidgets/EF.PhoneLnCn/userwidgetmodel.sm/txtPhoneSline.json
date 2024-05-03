@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Phone number",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s04102345da64b8181d56f1e311c4c3a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "android": {
+        "onBeginEditing": "AS_TextField_bc2e853a8d1649a685ee754827bd2a33",
+        "onEndEditing": "AS_TextField_gf3239a1a5234b948f78ca9681623679"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "focusskin": "s7fbd02f75284b2c9f1c6a38b992dd80",
+    "id": "txtPhoneSline",
+    "info": null,
+    "iphone": {
+        "onBeginEditing": "AS_TextField_gff35f503a284d3fa82206e45b30911f",
+        "onEndEditing": "AS_TextField_hbcedb4c0ac64396baee254331ebf919",
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": true
+        }
+    },
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "u4774f9453584272add252fce331fd4c",
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "ontouchend": "AS_TextField_cbc416664b7b4f1d92511214dff8bf05",
+    "ontouchstart": "AS_TextField_c43eea0726084426bc3b3f6450af6056",
+    "paddinginpixel": false,
+    "parent": "PhoneLnCn",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "scbed0ec86ce48a38facfa27be2b1280",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

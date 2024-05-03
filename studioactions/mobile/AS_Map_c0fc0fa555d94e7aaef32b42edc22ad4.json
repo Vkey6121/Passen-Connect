@@ -1,0 +1,29 @@
+{
+    "AS_Map_c0fc0fa555d94e7aaef32b42edc22ad4": {
+        "id": "AS_Map_c0fc0fa555d94e7aaef32b42edc22ad4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "location"
+        }],
+        "contextObj": {
+            "name": "Form8",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b0594b2336de4995ae14055a93aa58f3"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_MAPPING_c7c9d3c0f20444c0b4fee6ee70b170b0",
+            "type": "ADD_MAPPING",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

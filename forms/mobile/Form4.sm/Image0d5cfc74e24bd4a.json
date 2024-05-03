@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "550dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-69dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f0dc5ad97d43b39ed4bd3f73b77c73",
+    "_src_": "drake.jpg",
+    "_top_": {
+        "type": "string",
+        "value": "-38dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "550dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Image0d5cfc74e24bd4a",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ffb82dd7fefd4c9d8205a40c237212c7",
+    "name": "kony.ui.Image2",
+    "parent": "Form4",
+    "pf": "Form4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

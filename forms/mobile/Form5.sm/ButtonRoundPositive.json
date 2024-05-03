@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "sbe69ba0b69a4cf191c74ba480792632",
+    "_text_": "Home",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfd04d280b7449038791d1916518c25f",
+    "id": "ButtonRoundPositive",
+    "ide_onClick": "AS_Button_d958f22198aa4b6b908235aba945b7ff",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cd8d8899273e41ab8b0e621f321d346c",
+    "name": "kony.ui.Button",
+    "parent": "ContainerButtonPositive",
+    "pf": "Form5",
+    "wType": "Button",
+    "zindex": 1
+}

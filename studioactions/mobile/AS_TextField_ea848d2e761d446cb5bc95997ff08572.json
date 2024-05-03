@@ -1,0 +1,30 @@
+{
+    "AS_TextField_ea848d2e761d446cb5bc95997ff08572": {
+        "id": "AS_TextField_ea848d2e761d446cb5bc95997ff08572",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "form13",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a838c2a159ff4fd6a9bec5b4b209708c"
+        },
+        "language": "js",
+        "eventType": "onTextChange",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_ide_onTextChange_j0023617f09f4d51b4c380f7e5af2e3f",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "PNR",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "number",
+            "value": "5000000000"
+        }]
+    }
+}

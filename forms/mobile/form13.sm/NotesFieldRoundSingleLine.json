@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        4,
+        0,
+        4,
+        0
+    ],
+    "_placeholder_": "Lorem Ipsum is simply dummy text",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "scf7286b59e3492dab33b77b4f0c4c91",
+    "_text_": "Hi, How May I assist You",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sb7d360d6e6548b48ad342b36016833d",
+    "id": "NotesFieldRoundSingleLine",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "j88cf9da2c9d4ea7be5e11ab897e1ccc",
+    "masterType": 1,
+    "maxtextlength": "",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "NotesRndSL",
+    "pf": "form13",
+    "placeholderskin": "sea40753038e4425aa96e860c44c3fb5",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "vizProps": {
+        "lock": true
+    },
+    "wType": "TextField",
+    "zindex": 1
+}

@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "139dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb816ad3305c46d097ea912f907e8f2a",
+    "_top_": {
+        "type": "string",
+        "value": "213dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "52.37%"
+    },
+    "allboxes": [],
+    "android": {
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "ContainerButtonBorderTripleLeft",
+        "ContainerButtonBorderTripleMiddle",
+        "ContainerButtonBorderTripleRight"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "BorderButtonRoundTriple",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b6c7195c13754c4e975890dedfb6de87",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Form10",
+    "pf": "Form10",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,18 @@
+{
+    "AS_TextField_jca1fd603e5c4e8aace3873ec512c76b": {
+        "id": "AS_TextField_jca1fd603e5c4e8aace3873ec512c76b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": []
+    }
+}

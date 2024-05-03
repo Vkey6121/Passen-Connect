@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "6.50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        1,
+        0,
+        1
+    ],
+    "_placeholder_": "Email Address",
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s828b650d5684a8ca80116322f985a17",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "33.35%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89%"
+    },
+    "android": {},
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "enabled": false,
+    "focusskin": "s857ba1dc63d46ec949077e596f80779",
+    "id": "tbxEmail",
+    "info": null,
+    "iphone": {},
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "u18b88104c4f416ca7149669b3fd1d37",
+    "maxtextlength": 30,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "ondone": "AS_TextField_cfba31eeccab4600a3ff8849042e5d13",
+    "ontextchange": "AS_TextField_cc28d4bc38004c559da7a16821dfadfc",
+    "parent": "flxACMERegister",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s5e000a440e2463c84f62cb4da8a1153",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 3
+}

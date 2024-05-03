@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "-1dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "_placeholder_": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been industry's standard dummy text.",
+    "_right_": {
+        "type": "string",
+        "value": "-5dp"
+    },
+    "_skin_": "s2bb54a303474b6bb281e9e761c55548",
+    "_text_": "Sorry to hear about the inconvenience. We'll notify the train staff immediately to fix the AC issue. Thank you for bringing it to our attention",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "saab44be944a4e628242d0240599deff"
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "focusskin": "se9f9d7075064e98911e8a90ab2b9d31",
+    "id": "NotesFieldRounfMultiLine0g6c304ce820e4f",
+    "info": null,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "fff3c03251224e2d92d27c574b6a3ee3",
+    "masterType": 1,
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "paddinginpixel": false,
+    "parent": "NotesRndML0b9c0d82032144d",
+    "pf": "Copyform13",
+    "placeholderskin": "saab44be944a4e628242d0240599deff",
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 1
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7.30%"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s55f7f17110f4d269e16e4f21e91578b",
+    "_text_": "LOGIN",
+    "_top_": {
+        "type": "string",
+        "value": "57%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "89.78%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb49fef16bda45f89f4f0871c07f2fa2",
+    "id": "btnLogin",
+    "ide_onClick": "AS_Button_g9327b9c2fe94bc5a9fbe480f0737b56",
+    "info": null,
+    "isvisible": true,
+    "kuid": "uf201bbb336549169d6b47bac3d6597f",
+    "name": "kony.ui.Button",
+    "parent": "flxLogin",
+    "pf": "userwidgetmodel",
+    "wType": "Button",
+    "zindex": 3
+}

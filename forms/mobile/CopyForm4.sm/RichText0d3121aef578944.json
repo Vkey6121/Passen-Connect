@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "287dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa41940c6965431391878c9876e4636c",
+    "_text_": "RailCare",
+    "_top_": {
+        "type": "string",
+        "value": "674dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22.11%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0d3121aef578944",
+    "ide_onClick": "AS_RichText_db287682467241f293fa6d1a19bd484e",
+    "ide_onTouchStart": "AS_RichText_h86ec5c453d54c7fa9e0b5e0498e3899",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j6ba8b2c03f64f16828c06c65e81abe1",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "CopyForm4",
+    "pf": "CopyForm4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 3
+}

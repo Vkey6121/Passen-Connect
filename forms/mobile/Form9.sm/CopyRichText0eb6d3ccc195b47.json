@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "158dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s98613a69cab4110839dec7aaa02d794",
+    "_text_": "Coffee",
+    "_top_": {
+        "type": "string",
+        "value": "617dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "46.15%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopyRichText0eb6d3ccc195b47",
+    "ide_onClick": "AS_RichText_fffa72c0e0eb402c900628213b5cc975",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a63cf34c67074780b4b7c5f9eaf94975",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "Form9",
+    "pf": "Form9",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        10,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Search for place or address",
+    "_skin_": "s1d5ce5ed44b4aaabc04ad268624eee0",
+    "_text_": "Search",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "73.29%"
+    },
+    "android": {
+        "viewType": "search"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "TextField0c2531dc7b58b4c",
+    "info": null,
+    "iphone": {
+        "viewType": "search"
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "b504f3bded3e48ad8288e8325a01ecfd",
+    "masterType": 1,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "headerContainer20",
+    "pf": "Form9",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "wType": "TextField",
+    "zindex": 1
+}

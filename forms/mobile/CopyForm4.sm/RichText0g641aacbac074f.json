@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd673ab3692f406c8c420893af91fbcf",
+    "_text_": "Livetrack",
+    "_top_": {
+        "type": "string",
+        "value": "669dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22.41%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "RichText0g641aacbac074f",
+    "ide_onClick": "AS_RichText_b2c36b8f092442cdb45166b99be2bf3e",
+    "ide_onTouchStart": "AS_RichText_a9c34af49c614df1b73df7be1ac6bad4",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c559f184a4cb4f7088e484001a6ec079",
+    "linkskin": "s69d0adfe99243bf9519f028512b07b7",
+    "name": "kony.ui.RichText",
+    "parent": "CopyForm4",
+    "pf": "CopyForm4",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 3
+}

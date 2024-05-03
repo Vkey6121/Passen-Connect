@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc6794cbd9b248eb9092ace7bb46439e",
+    "_top_": {
+        "type": "string",
+        "value": "230dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Bank",
+        "Train",
+        "VolumeControl",
+        "Cog",
+        "InfoCircle",
+        "RichText0a81ad0b517784f",
+        "CopyRichText0j58c712a9db441",
+        "CopyRichText0c369ca639e2242",
+        "CopyRichText0aa31a99a768945",
+        "CopyRichText0e65a9a935ce94e",
+        "RichText0h6d01860912a48",
+        "PaddedButtonRoundSigned"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "detailContainer",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d2149ce8532b46289da69674f86ca4f5",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.FlexContainer",
+    "parent": "masterContainer",
+    "pf": "Form5",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "1315dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-21dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3f0dc5ad97d43b39ed4bd3f73b77c73",
+    "_src_": "white_large_square_emoji_2048x2048_3i8ln83i.png",
+    "_top_": {
+        "type": "string",
+        "value": "-317dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "468dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Image0b7f037b09d1a44",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "bdbc1d40e8394f2fb4aad50e1db3c1f8",
+    "name": "kony.ui.Image2",
+    "parent": "form13",
+    "pf": "form13",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

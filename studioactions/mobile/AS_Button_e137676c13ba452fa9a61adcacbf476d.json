@@ -1,0 +1,36 @@
+{
+    "AS_Button_e137676c13ba452fa9a61adcacbf476d": {
+        "id": "AS_Button_e137676c13ba452fa9a61adcacbf476d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form11",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b03c05f5b7064fe5820e6185c644f603"
+        },
+        "language": "js",
+        "eventType": "onTouchStart",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__ide_onTouchStart_ica4fb3c37134d6ab3d58a90146ea5f9",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Form5",
+            "formKUID": "c70e8eb8ef70424184c87c49b7c74af1",
+            "projectName": "passenconnect",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

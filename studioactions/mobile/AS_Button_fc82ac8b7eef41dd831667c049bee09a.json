@@ -1,0 +1,28 @@
+{
+    "AS_Button_fc82ac8b7eef41dd831667c049bee09a": {
+        "id": "AS_Button_fc82ac8b7eef41dd831667c049bee09a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "confform",
+            "type": "forms",
+            "platform": "",
+            "KUID": "df629af9e0ae4e3faf70fb8f08257979"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "SEND_EMAIL_b2dd56e288f04fae93e35a69ca649b48",
+            "type": "SEND_EMAIL",
+            "torecipients": ["your mail id"],
+            "ccrecipients": ["Prasannaverse01@gmail.com"],
+            "bccrecipients": ["Prasannaverse01@gmail.com"],
+            "messagebody": "Your Ticket detials",
+            "subject": "Demo Check",
+            "ismessagebodyhtml": false
+        }]
+    }
+}

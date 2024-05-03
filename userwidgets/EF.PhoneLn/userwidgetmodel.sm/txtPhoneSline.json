@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Phone number",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "scc5635e51a54caf881fe6a7a38ba4b1",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "android": {
+        "onBeginEditing": "AS_TextField_fe11e4794a2d48108eb406e1b51bbc55",
+        "onEndEditing": "AS_TextField_cce55d34bd1d4d67914bc3bc8fca3bb3"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "focusskin": "s52d6a91197949e39457e27435b7ea76",
+    "id": "txtPhoneSline",
+    "info": null,
+    "iphone": {
+        "onBeginEditing": "AS_TextField_d5880390b18442319d0292e6d64f0308",
+        "onEndEditing": "AS_TextField_c3fbd68f29e8403b8b380b65c7266869",
+        "psp": {
+            "showClearButton": false,
+            "showCloseButton": true
+        }
+    },
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "u948d3dedcf140648d9fdf8059a158b5",
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "ontouchend": "AS_TextField_adfe45f103b2471f8ec1631181badcf0",
+    "ontouchstart": "AS_TextField_jca1fd603e5c4e8aace3873ec512c76b",
+    "parent": "PhoneLn",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "sfb1b166e7d64895af0b8cec9bc89a07",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

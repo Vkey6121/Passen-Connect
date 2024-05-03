@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "245dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc48d1c1de8f4189a3993b522aebabdd",
+    "_text_": "Sign Up",
+    "_top_": {
+        "type": "string",
+        "value": "-54dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s21c7209cbf04d30986a56fdf785b23c",
+    "id": "Button0bbc35cc4a8324b",
+    "ide_onClick": "AS_Button_ce951178cced450a954528ed23ea185a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b67b62da0cf549d19d396ea55dbc40a1",
+    "name": "kony.ui.Button",
+    "parent": "paddingContainer",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 4
+}
